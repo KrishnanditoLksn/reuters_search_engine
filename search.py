@@ -12,12 +12,18 @@ def search_index(indexdir, query_string):
     with ix.searcher() as searcher:
         print(f"Searching for: '{query_string}'")
         query = QueryParser("content", ix.schema).parse(query_string)
-        results = searcher.search(query)
+        results = searcher.search(query, terms=True)
+        found_hits = results.scored_length()
+
         print(f"Number of results found: {len(results)}")
+        print(found_hits)
+        for hit in results:
+            print("Matched:", hit.matched_terms())
+
+        print("List of documents")
         if len(results) == 0:
             print("No results found.")
         for result in results:
-            print("List of documents")
             print(f"Title: {result['title']}")
 
 
@@ -25,5 +31,5 @@ def search_index(indexdir, query_string):
 if __name__ == "__main__":
     text_directory = '.'
     index_directory = './Index_2.npy'
-    search_query = "NASA"
+    search_query = "natural disaster"
     search_index(index_directory, search_query)
