@@ -31,5 +31,5 @@ def search_index(indexdir, query_string):
 if __name__ == "__main__":
     text_directory = '.'
     index_directory = './Index_2.npy'
-    search_query = "natural disaster"
+    search_query = input(str())
     search_index(index_directory, search_query)
