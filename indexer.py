@@ -1,12 +1,15 @@
 import glob
 import os
 
+from whoosh.analysis import StemmingAnalyzer
 from whoosh.fields import Schema, TEXT
 from whoosh.index import create_in
 
-
 # Define the schema for the index
-schema = Schema(title=TEXT(stored=True), content=TEXT)
+stem_analyzer = StemmingAnalyzer()
+schema = Schema(title=TEXT(stored=True, analyzer=stem_analyzer), content=TEXT)
+
+
 def create_index(directory, indexdir):
     if not os.path.exists(indexdir):
         os.mkdir(indexdir)
@@ -22,6 +25,7 @@ def create_index(directory, indexdir):
                 writer.add_document(title=filename, content=content)
         print(f"Indexing file: {filename}")
     writer.commit()
+
 
 if __name__ == '__main__':
     directorys = "./"
