@@ -26,7 +26,9 @@ def search_index(indexdir, query_string):
         print(found_hits)
         for hit in results:
             print("Matched:", hit.matched_terms())
-
+            print("Rank:" , hit.rank)
+            print("Score:" , hit.score)
+        print("==================================================")
         print("List of documents")
         if len(results) == 0:
             print("No results found.")
