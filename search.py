@@ -1,57 +1,36 @@
-import glob
-
-from whoosh.index import create_in, open_dir
+from whoosh import scoring
 from whoosh.fields import Schema, TEXT
+from whoosh.index import open_dir
 from whoosh.qparser import QueryParser
-import os
 
-# Define the schema for the index
-schema = Schema(title=TEXT(stored=True), content=TEXT)
+schema = Schema(title=TEXT(stored=True), content=TEXT(stored=True))
 
 
-# Function to create an index
-def create_index(directory, indexdir):
-    if not os.path.exists(indexdir):
-        os.mkdir(indexdir)
-    ix = create_in(indexdir, schema)
-    writer = ix.writer()
-
-    # Add documents to the index
-    for filename in glob.glob(os.path.join(directory, '**', '*.txt'),  recursive=True):
-        if filename.endswith('.txt'):
-            filepath = os.path.join(directory, filename)
-            with open(filepath, 'r', encoding='utf-8') as file:
-                content = file.read()
-                writer.add_document(title=filename, content=content)
-        # print(f"Indexing file: {filename}")
-    writer.commit()
-
-
-# Function to search the index
 def search_index(indexdir, query_string):
     ix = open_dir(indexdir)
-    with ix.searcher() as searcher:
+    print(ix.doc_count())
+    with ix.searcher(weighting=scoring.TF_IDF()) as searcher:
         print(f"Searching for: '{query_string}'")
         query = QueryParser("content", ix.schema).parse(query_string)
-        results = searcher.search(query)
+
+        print("Parser", query)
+        results = searcher.search(query, terms=True, limit=1000)
+        found_hits = results.scored_length()
+
         print(f"Number of results found: {len(results)}")
+        print(found_hits)
+        for hit in results:
+            print("Matched:", hit.matched_terms())
+
+        print("List of documents")
         if len(results) == 0:
             print("No results found.")
         for result in results:
-            print(f"Title: {result['title']}, Content: {result['title'][:200]}...")
+            print(f"Title: {result['title']}")
 
 
-
-# Example usage
 if __name__ == "__main__":
-    # Directory containing .txt files
-    text_directory = '.'
-    # Directory to store the index
-    index_directory = './Index_2.npy'
-
-    # Create the index
-    create_index(text_directory, index_directory)
-
-    # Search the index
-    search_query = "canadian"
+    index_directory = './Index_8.npy'
+    print("INPUT YOUR QUERY:")
+    search_query = input(str())
     search_index(index_directory, search_query)
