@@ -24,7 +24,7 @@ def create_index(directory, indexdir):
                 content = file.read()
                 writer.add_document(title=filename, content=content)
         print(f"Indexing file: {filename}")
-    writer.commit()
+    writer.commit(optimize=True)
 
 
 if __name__ == '__main__':
