@@ -1,0 +1,59 @@
+By Ashley Strickland, CNN
+ 6 minute read 
+Updated 11:26 PM EDT, Tue March 11, 2025
+
+
+
+CNN
+ — 
+It’s a two-for-one cosmic deal. NASA’s newest space telescope, SPHEREx — designed to seek out the key ingredients for life in the Milky Way — and a sun-focused mission called PUNCH are on their way to space.
+
+Both missions lifted off together aboard a SpaceX Falcon 9 rocket at 11:10 p.m. ET (8:10 p.m PT) Tuesday from Vandenberg Space Force Base in California.
+
+The launch comes after weather and integration issues — which cropped up as engineers attached both missions to the rocket and encapsulated them within a protective faring — caused a series of delays after the window of opportunity originally opened on February 28.
+
+Although the missions have entirely different goals, launching PUNCH as a secondary rideshare along with SPHEREx helps get “more science into space for less cost,” said Dr. Nicky Fox, associate administrator for NASA’s Science Mission Directorate. And it helps that the missions are going to a similar place: a sun-synchronous orbit around Earth’s poles, meaning each spacecraft keeps the same orientation relative to the sun throughout the year.
+
+SPHEREx, or the Spectro-Photometer for the History of the Universe, Epoch of Reionization and Ices Explorer, aims to shed light on how the universe has evolved and find where life’s key ingredients originated in the cosmos.
+
+PUNCH, or Polarimeter to Unify the Corona and Heliosphere, will study how the sun affects the solar system. The mission will observe the sun’s hot outer atmosphere, called the corona, and study solar wind, or the energized particles that emerge in a steady stream from the sun.
+
+Both groundbreaking missions promise to reveal previously unseen and unknown aspects of our solar system and galaxy.
+
+“These missions cover the full breadth of the science that NASA does every day,” said Dr. Mark Clampin, acting deputy associate administrator of NASA’s Science Mission Directorate. “PUNCH … will study the sun in great detail, whereas SPHEREx is a survey mission that will scan the full sky and will observe hundreds of millions of stars. So every minute of the day, NASA science missions are exploring the universe at different scales to really help us understand the universe we live in and understand the sun that keeps our planet alive.”
+
+
+The star stuff of life
+After launching, SPHEREx will spend just over two years orbiting Earth from 404 miles (650 kilometers) overhead, collecting data on more than 450 million galaxies. The telescope also will survey more than 100 million stars in our galaxy.
+
+Mapping the distribution of the galaxies will help scientists to understand a cosmic phenomenon called inflation, or what sparked the universe to increase in size by a trillion-trillionfold nearly instantaneously after the big bang.
+
+The observatory will create a map of the sky in 102 colors of infrared light, which is invisible to the human eye and ideal for studying stars and galaxies. The telescope will split infrared light into individual wavelengths, like a prism. The different colors of light can help scientists uncover the composition of celestial objects by isolating their chemical compounds.
+
+“We are the first mission to look at the whole sky in so many colors,” said Jamie Bock, SPHEREx principal investigator at NASA’s Jet Propulsion Laboratory and the California Institute of Technology, both in Pasadena, California, in a statement. “Whenever astronomers look at the sky in a new way, we can expect discoveries.”
+
+SPHEREx will also measure the total glow of light emitted by all galaxies, including those that are too distant and faint to be detected by other telescopes, to provide a broad look at all the major sources of light across the universe.
+
+One of SPHEREx’s main goals is to search for evidence of water, carbon dioxide, carbon monoxide and other ingredients necessary for life frozen within the clouds of gas and dust that give rise to planets and stars.
+
+In particular, astronomers are eager to look inside molecular clouds, or giant regions full of gas and dust, that may contain newly formed stars. It’s likely that these stars will be ringed by disks of material, which form planets. Astronomers believe ice connected to small dust grains is where most of the water in the universe can be found — and is likely where the water that created Earth’s oceans originated.
+
+Pinpointing the ingredients for life across our galaxy, and their abundance, will enable researchers to determine how they could be incorporated into newly forming planets.
+
+SPHEREx will act like a partner for the James Webb Space Telescope. While Webb is a targeted telescope, meaning it observes a small area but in greater detail, SPHEREx is a survey telescope that observes large portions of the sky quickly. Combining the data from both telescopes can connect fine details with the bigger picture. If SPHEREx spots something of interest, then Webb or the Hubble Space Telescope can zoom in on it.
+
+
+Packing a punch
+PUNCH is a constellation of four small suitcase-size spacecraft that will spend the next two years whirling around Earth to observe the sun and the heliosphere, or the sun’s bubble of magnetic fields and particles that extends well beyond the orbit of Pluto.
+
+Each satellite carries a camera, which acts like a synchronized, single, virtual instrument with a largely uninterrupted view of the sun. The cameras are equipped with polarizing filters, similar to polarized sunglasses, that enable them to make maps of features in the corona and across the solar system.
+
+Together, the four satellites will create global, 3D observations of where the sun’s outer atmosphere transitions to become the solar wind to help scientists understand how this process occurs. PUNCH will also glimpse how the corona and solar wind affect the rest of the solar system. It will be the first mission to image the corona and solar wind together.
+
+Solar wind, as well as solar storms, are responsible for space weather that can affect Earth, creating beautiful auroras near the poles but also interfering with communications satellites and triggering outages of power grids. Measurements collected by PUNCH will help scientists better understand how solar storms form and evolve, which could lead to accurate predictions for when space weather could impact Earth. PUNCH will be observing the sun at a crucial time during solar maximum, or the peak of the sun’s activity during its 11-year cycle, when more flares and solar storms are expected to occur.
+
+“What we hope PUNCH will bring to humanity is the ability to really see, for the first time, where we live inside the solar wind itself,” said Craig DeForest, principal investigator for PUNCH at Southwest Research Institute’s Solar System Science and Exploration Division in Boulder, Colorado, in a statement.
+
+Like SPHEREx and the Webb telescope, PUNCH will be able to work in tandem with NASA’s Parker Solar Probe, which launched in 2018 and recently made its closest pass to the sun, to capture the bigger picture as well as close-up details.
+
+“PUNCH is the latest heliophysics addition to the NASA fleet that delivers groundbreaking science every second of every day,” said Joe Westlake, director of NASA’s heliophysics division, in a statement. “Launching this mission as a rideshare bolsters its value to the nation by optimizing every pound of launch capacity to maximize the scientific return for the cost of a single launch.”

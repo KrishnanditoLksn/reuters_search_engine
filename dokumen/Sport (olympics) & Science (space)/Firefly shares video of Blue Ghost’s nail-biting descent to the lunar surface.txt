@@ -1,0 +1,39 @@
+By Jackie Wattles, CNN
+ 3 minute read 
+Published 8:34 AM EST, Wed March 5, 2025
+
+
+
+CNN
+ — 
+Firefly Aerospace, the Texas-based startup that on Sunday became only the second private-sector company to soft-land a spacecraft on the moon, has released video from the moment its Blue Ghost lander touched down on the lunar surface.
+
+Blue Ghost shared the footage after successfully deploying an X-band antenna, which can beam troves of data and images back from the vehicle, the company said.
+
+The video, taken as Blue Ghost descended just north of the moon’s equator within an ancient volcanic basin called Mare Crisium, shows the vehicle steadily making its way down before landing upright on its four legs.
+
+Within the basin, the lunar lander is near an ancient volcanic feature called Mons Latreille, which lies on the far eastern edge of the moon’s visible face.
+
+Blue Ghost is expected to study the moon’s surface for about two weeks until lunar nightfall plunges the landing zone into extreme cold and darkness, making it all but impossible for the largely solar-powered lander to continue operations.
+
+The vehicle will attempt to briefly continue working in the darkness, as the spacecraft is equipped with batteries that aim to allow five or more hours of operation in the absence of sunlight.
+
+
+Blue Ghost’s mission on the moon
+In a blog post Tuesday, NASA — which sponsored this mission through its Commercial Lunar Payload Services, or CLPS, program — said that all 10 of the agency’s science instruments and tech demonstrations on board Blue Ghost “continue to be healthy.”
+
+Several instruments have also begun collecting data. They include the Electrodynamic Dust Shield, or EDS, which is designed to sweep moon dust kicked up by the landing off of the spacecraft’s surface using electrical currents. Moon dust plagued astronauts and spacecraft during NASA’s Apollo program in the mid-20th century, as the fine and abrasive material damaged camera lenses and visors, according to NASA.
+
+The space agency said initial data analysis suggests the EDS experiment is a “promising solution for future lunar surface operations.”
+
+The Lunar Global Navigation Satellite System Receiver Experiment, or LuGRE, also powered on, making history by acquiring a GPS signal from the lunar surface for the first time.
+
+NASA’s Stereo Cameras for Lunar Plume-Surface Studies, or SCALPSS, also captured images that will help the space agency understand how lunar soil reacts to a spacecraft’s engine as it heads in for landing.
+
+Finally, Blue Ghost deployed the Lunar PlanetVac, or LPV, a type of vacuum equipped with its own gas that’s designed to suck up soil from the lunar surface, testing how sample collection might be made more efficient in the absence of gravity. NASA confirmed the vacuum has begun operations but did not yet say how well the instrument worked.
+
+Blue Ghost is the first of two lunar landers developed by separate Texas-based companies to head for the surface of the moon this week.
+
+Houston-based Intuitive Machines is poised to land its Athena spacecraft near the moon’s south pole, which scientists believe is home to water ice. Such resources could be highly valuable for lunar exploration, as water can be converted to breathable air, drinking water or rocket fuel for future missions.
+
+Like Firefly, Intuitive Machines was funded by NASA’s CLPS program, which is part of the space agency’s broader effort to return humans to the moon for the first time in more than five decades under the Artemis program. The first crewed Artemis moon-landing mission is currently scheduled for mid-2027.

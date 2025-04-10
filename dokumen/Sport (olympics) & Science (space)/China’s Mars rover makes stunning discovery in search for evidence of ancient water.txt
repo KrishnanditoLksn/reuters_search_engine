@@ -1,0 +1,67 @@
+By Ashley Strickland, CNN
+ 6 minute read 
+Updated 1:00 PM EST, Fri February 28, 2025
+
+
+
+CNN
+ — 
+Mars may have once hosted an ocean with waves that lapped against sandy beaches 3.6 billion years ago, according to new research. China’s Zhurong rover and its ground-penetrating radar detected the ancient shorelines when it operated from May 2021 to May 2022.
+
+The rover landed in Utopia Planitia, a plain within the largest known impact basin on Mars, near a series of ridges in the planet’s northern hemisphere. Scientists have long questioned whether the ridges might represent the remnants of a shoreline, so Zhurong set out in search of evidence of ancient water.
+
+The study, based on data collected by Zhurong as its radar instrument peered beneath the surface to examine hidden rock layers, was published Monday in the journal Proceedings of the National Academy of Sciences.
+
+“We’re finding places on Mars that used to look like ancient beaches and ancient river deltas,” said study coauthor Benjamin Cardenas, assistant professor of geology in the department of geosciences at Penn State, in a statement. “We found evidence for wind, waves, no shortage of sand — a proper, vacation-style beach.”
+
+What’s more, it’s possible the Martian environment was warmer and wetter for tens of millions of years longer than previously suspected, the study authors wrote.
+
+The revelations add to the increasing evidence that the red planet once had a warmer, wetter climate as well as an ocean that covered one-third of the Martian surface — conditions that might have created a hospitable environment for life.
+
+
+The search for Mars’ ancient ocean
+In the 1970s, NASA’s Mariner 9 and Viking 2 were the first missions to spy features that suggested the presence of an ancient ocean on Mars.
+
+Utopia Planitia dates to the Hesperian Period, or 3.7 billion to 3 billion years ago, and it lacks abundant evidence for standing water, unlike more ancient regions of Mars, said Aaron Cavosie, a planetary scientist and senior lecturer at the Space Science and Technology Centre at Curtin University in Perth, Australia. Cavosie was not involved in the new study.
+
+“The Mariner 9 orbiter first imaged giant canyons on Hesperian surfaces of Mars in the 1970s, but they are generally viewed as representing catastrophic bursts of groundwater to the surface, rather than evidence for standing water,” Cavosie said. “The idea is that Mars’ climate cooled down by this time and the surface dried up.”
+
+Multiple spacecraft have captured observations that suggest much of Mars’ water escaped to space as the planet’s atmosphere disappeared — astronomers are still investigating what caused this dramatic transformation. As the planet cooled, some of the water likely moved underground in the form of ice or combined with rocks to create minerals.
+
+Viking’s images showcased what appeared to be a shoreline in the northern hemisphere. But in stark contrast to the level shorelines on Earth, the Martian feature was jaggedly irregular, with height differences of up to 6.2 miles (10 kilometers).
+
+Study coauthor Michael Manga, a professor of Earth and planetary science at the University of California, Berkeley, and his colleagues previously suggested that volcanic activity in the region, as well as a change in Mars’ rotation, altered the shoreline and caused it to be uneven over time.
+
+“Because the spin axis of Mars has changed, the shape of Mars has changed. And so what used to be flat is no longer flat,” Manga said.
+
+But what scientists needed most to answer their questions were observations made from “boots on the ground,” or in this case, rover tracks, Cavosie said. Zhurong would be able to see whether the rock layers buried in Utopia Planitia were volcanic or if they contained sediments consistent with those of an ocean.
+
+
+The dip of a shoreline
+When Zhurong landed, it traveled along Utopia Planitia’s ridges, collecting data up to 260 feet (80 meters) beneath the surface with radar.
+
+Between 32.8 and 114.8 feet (10 and 35 meters) down, the rover’s radar detected sedimentary structures similar to layered beaches on Earth that dipped at a 14.5-degree angle. The radar also measured the size of the particles, which matched that of sand grains.
+
+“The structures don’t look like sand dunes,” Manga said. “They don’t look like an impact crater. They don’t look like lava flows. That’s when we started thinking about oceans. The orientation of these features (is) parallel to what the old shoreline would have been.”
+
+The structures strongly resembled coastal sediment deposits on Earth, such as those found in the Bay of Bengal, formed by the presence of a long-term stable ocean, the study authors said.
+
+The team said it believes the rover found “foreshore deposits,” which take millions of years to form as sediments carried by tides and waves slope downward toward an ocean.
+
+“This stood out to us immediately because it suggests there were waves, which means there was a dynamic interface of air and water,” Cardenas said. “When we look back at where the earliest life on Earth developed, it was in the interaction between oceans and land, so this is painting a picture of ancient habitable environments, capable of harboring conditions friendly toward microbial life.”
+
+Rivers likely helped dump sediment into the oceans, which was then distributed by waves to create beaches. Sedimentary rocks, carved channels and even the remains of an ancient river delta, studied by NASA’s Perseverance rover, have shown how water once shaped the Martian landscape.
+
+After the ocean dried up, the beaches were likely blanketed by volcanic eruptions and material from dust storms, effectively preserving the shoreline, Cardenas said.
+
+“It’s always a challenge to know how the last 3.5 billion years of erosion on Mars might have altered or completely erased evidence of an ocean,” he said. “But not with these deposits. This is a very unique dataset.”
+
+Now, the team wants to determine the height of the waves and tides within the ocean, how long the ocean persisted, and whether it provided a potentially hospitable environment, Magna said.
+
+François Forget, senior research scientist and research director at the French National Centre for Scientific Research, said he isn’t entirely convinced by the hypothesis presented in the study that only ocean shorelines can explain the radar data. Forget was not involved in the new research.
+
+“I do not think that we can be certain that the observations could not be explained by dune processes,” or the formation of sand dunes, which Forget said he believes to be more likely on Mars.
+
+Meanwhile, Dr. Joe McNeil, a planetary scientist and postdoctoral researcher at London’s Natural History Museum, believes the findings add weight to the hypothesis of an ancient northern ocean on Mars by providing crucial subsurface evidence. McNeil was not involved in the new study.
+
+“If these coastal deposits truly represent deposition of sediments at the edge of an ancient ocean, it suggests a prolonged period of stable liquid water, which has major implications for Mars’ climate history,” McNeil said. “It would mean Mars had conditions that could have supported a hydrological system with potential habitable environments for substantial amounts of time.”

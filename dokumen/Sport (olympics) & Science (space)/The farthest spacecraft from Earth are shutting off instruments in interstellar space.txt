@@ -1,0 +1,53 @@
+By Ashley Strickland, CNN
+ 5 minute read 
+Updated 6:25 PM EST, Wed March 5, 2025
+
+
+
+CNN
+ — 
+NASA’s twin Voyager probes, which launched 47 years ago, are shutting off some science instruments in an effort to conserve power and keep their storied missions going. Voyager 1 and Voyager 2 are both exploring uncharted territory in interstellar space.
+
+Engineers at NASA’s Jet Propulsion Laboratory in Pasadena, California, sent a command for Voyager 1 to power down its cosmic ray subsystem experiment on February 25. Meanwhile, Voyager 2’s low-energy charged particle instrument will shut off on March 24. This leaves each probe with three functioning science instruments.
+
+When they launched weeks apart in 1977, the Voyager probes carried identical sets of 10 science instruments.
+
+But over time, the probes’ power supply has gradually diminished. The Voyager spacecraft rely on electricity generated from the heat of decaying plutonium, and both are losing an estimated 4 watts of power per year.
+
+“The Voyagers have been deep space rock stars since launch, and we want to keep it that way as long as possible,” said Suzanne Dodd, Voyager project manager at JPL, in a statement. “But electrical power is running low. If we don’t turn off an instrument on each Voyager now, they would probably have only a few more months of power before we would need to declare end of mission.”
+
+
+Investigating uncharted territory
+Voyager 1 and Voyager 2, originally designed to fly by the largest planets in our solar system, are now the most distant objects made by humans.
+
+Voyager 1 is more than 15 billion miles (25 billion kilometers) from Earth, while Voyager 2 is over 13 billion miles (21 billion kilometers) away, according to NASA. Both probes are the only spacecraft to operate beyond the heliosphere, the sun’s bubble of magnetic fields and particles that extends well beyond the orbit of Pluto.
+
+Instruments necessary for collecting data during the planetary flybys in the 1970s and 1980s were shut off after the probes completed their initial objectives. But the Voyager mission team left the others turned on to collect data about the heliosphere, as well as interstellar space.
+
+Voyager 1 crossed into interstellar space, or the space between stars, in 2012, and Voyager 2 did the same in 2018. The probes took different trajectories. Voyager 1 is traveling up away from the plane that includes all of the planets orbiting the sun in our solar system, while Voyager 2 is journeying beneath the plane.
+
+Over time, the Voyager team has shut off instruments one by one to ensure the probes probes can continue their storied journeys. In October, NASA shut down Voyager 2’s plasma science instrument. Designed to measure the number of electrically charged atoms in space, the instrument was only returning a limited amount of data in recent years due to its orientation. And Voyager 1’s identical instrument has been shut off for years because its performance degraded over time.
+
+The cosmic ray subsystem shut off on Voyager 1 last week included a trio of telescopes studying and measuring cosmic rays, or the most highly energetic particles in the universe, releasing from the sun and Milky Way galaxy. The Voyager team used data from the instrument to determine exactly when and where Voyager 1 exited the heliosphere and entered interstellar space.
+
+The low-energy charged particle instrument that Voyager 2 will power off later this month measures ions, electrons and cosmic rays in the solar system and our galaxy. The subsystems of the instrument include a telescope and magnetospheric particle analyzer, which have a 360-degree view thanks to a rotating platform powered by a stepper motor. The motor was tested to 500,000 steps on Earth, which guaranteed it would operate through Voyager 2’s flyby of Saturn in August 1980. Once it has shut off, the motor will have completed more than 8.5 million steps.
+
+Each probe will still collect unique data, although the team will lose the ability to make identical particle measurements at two different locations in interstellar space, said Linda Spilker, Voyager project scientist at JPL.
+
+Having identical instruments aboard the probes allowed scientists to compare the environments the Voyagers have been exploring, noting similarities and differences.
+
+“The Voyager spacecraft have far surpassed their original mission to study the outer planets,” said Patrick Koehn, Voyager program scientist at NASA Headquarters in Washington, in a statement. “Every bit of additional data we have gathered since then is not only valuable bonus science for heliophysics, but also a testament to the exemplary engineering that has gone into the Voyagers — starting nearly 50 years ago and continuing to this day.”
+
+
+The Voyager probes’ future
+As the Voyager probes age, the mission’s engineers have become increasingly creative in solving unanticipated problems, including communication blackouts and other glitches, across vast cosmic distances.
+
+After turning off the two instruments, both Voyager probes should be able to operate for another year before the team will need to shut off an additional instrument for each spacecraft. The team is already planning to shut off Voyager1’s low-energy charged particle instrument and Voyager 2’s cosmic ray subsystem in 2026.
+
+Meanwhile, Voyager 1 and 2 will continue on their journeys with their plasma wave subsystems, which measure waves within plasma fields in space, and magnetometers, measuring changes in magnetic fields, turned on.
+
+“Both Voyagers will continue to collect unique information on particles such as energetic cosmic rays and interstellar plasma, interstellar magnetic fields and radio waves in the interstellar medium, including any effects from the Sun that propagate to Voyager’s distances,” Spilker said.
+
+NASA experts believe the probes will be able to conserve enough power to keep operating with at least one science instrument each into the 2030s, but they are fully aware that any additional challenges that arise could always lead to the end of the line for the Voyager spacecraft.
+
+“Every minute of every day, the Voyagers explore a region where no spacecraft has gone before,” Spilker said. “That also means every day could be our last. But that day could also bring another interstellar revelation. So, we’re pulling out all the stops, doing what we can to make sure Voyagers 1 and 2 continue their trailblazing for the maximum time possible.”

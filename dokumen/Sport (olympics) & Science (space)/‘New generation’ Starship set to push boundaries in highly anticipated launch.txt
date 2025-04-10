@@ -1,0 +1,79 @@
+By Jackie Wattles, CNN
+ 7 minute read 
+Updated 11:32 AM EST, Thu January 16, 2025
+
+
+
+CNN
+ — 
+SpaceX has turned heads and tested boundaries with each test flight of Starship, the most powerful rocket system ever constructed. And the latest mission of the nearly 400-foot-tall (121-meter) vehicle is designed to push the envelope even further in a quest to return astronauts to the moon and someday fulfill CEO Elon Musk’s dream of sending the first humans to Mars.
+
+Liftoff is now on track for no earlier than 5 p.m. ET (4 p.m. local time) Thursday from SpaceX’s launchpad at its Starbase facility near Brownsville, Texas. The window for launch will remain open for one hour. The company will livestream the event on its website and X.
+
+NASA has agreed to pay SpaceX $4.5 billion across two contracts to develop Starship and complete two crewed lunar landings, the first of which is slated to take off as soon as 2027
+
+The imminent flight will test an upgrade of Starship that aims to improve the vehicle’s capabilities — and ability to survive the trip home from space — as well as carry out an experimental maneuver designed to test how satellites might deploy from this “new generation” of the spaceship.
+
+Initially scheduled to launch on Wednesday, SpaceX is now targeting Thursday due to weather, the company shared on X, the social media platform formerly known as Twitter that Musk purchased in 2022. Thursday is also when Jeff Bezos’ Blue Origin is set to make a second attempt to get its New Glenn rocket off the ground for its maiden flight. Blue Origin is seeking to use New Glenn to better compete with SpaceX, which has dominated the global launch market for years.
+
+The Super Heavy rocket booster, the vehicle’s bottommost portion known as the first stage, gives the initial thrust after takeoff. The booster will fire its 33 Raptor engines for about 2 ½ minutes to propel the attached uncrewed Starship vehicle away from the launchpad toward space.
+
+For the first time, one of those 33 Raptor engines will have been to space before: SpaceX said it is reusing an engine recovered from the Super Heavy booster flown during the company’s fifth test flight in October.
+
+Testing out the ability of the Raptor engines to fly multiple missions is key for SpaceX: The company intends to reuse every portion of the Starship system in order to drive down costs as well as cut down on the time between missions.
+
+The highly anticipated launch will mark the seventh flight of the fully integrated Starship system.
+
+
+Will Super Heavy booster repeat midair landing maneuver?
+After burning through most of its fuel, the Super Heavy booster will then detach from the Starship spacecraft, which will ignite its own engines and begin soaring through space.
+
+The gargantuan booster will steer itself back toward the launch site and attempt a soft touchdown, landing precisely between two massive metal pincers, or “chopsticks,” attached to SpaceX’s launch tower, nicknamed “Mechazilla” by CEO Elon Musk.
+
+SpaceX pulled off the maneuver for the first time in October. During the next test flight in November, however, it aborted a Super Heavy touchdown attempt on terra firma after sensors at the landing zone were damaged during the initial launch. Engineers found “critical hardware” did not pass a health check.
+
+Instead, the Super Heavy booster splashed down in the Gulf of Mexico and was not recovered.
+
+During the upcoming trial, SpaceX will once again have the option to switch paths midflight and execute an ocean splashdown of the booster if safety issues arise.
+
+But SpaceX indicated its hopes are higher, noting in a blog post that hardware “upgrades to the launch and catch tower will increase reliability for booster catch.” The upgrades include better protection for sensors on Mechazilla that failed during the November test flight and triggered the company to divert to an ocean landing.
+
+
+A next-generation spaceship
+Meanwhile, the Starship spacecraft, or the rocket’s upper stage that’s designed to carry satellites or humans, will test a suite of upgrades the company has made.
+
+The spaceship’s propulsion system, for example, has been altered to increase the propellant volume by 25%. The ability to hold more fuel allows the craft to fire its engines for a longer duration. Prior to this test flight, the Starship spacecraft could hold about 1,200 metric tons (2.6 million pounds) of oxidizer and fuel, the company previously said.
+
+In a big first, Starship will also attempt to deploy 10 satellite “simulators,” SpaceX said, that will be “similar in size and weight” to the company’s next generation of Starlink internet satellites. The simulators will not stay in space, the company noted. Instead, they will travel on a suborbital path, much like the Starship spacecraft, which is slated to splash down in the Indian Ocean about one hour after takeoff.
+
+Before this particular spacecraft reaches its watery demise, however, SpaceX will test a few other key objectives.
+
+While the Starship vehicle is in space, SpaceX will attempt to reignite one of its engines — testing out how the spacecraft might light up its propulsion system more than once on future missions that require more than one engine burn. The company tested relighting a Starship engine during the November test flight, deeming that trial a success.
+
+On this seventh flight test of the integrated rocket system, SpaceX has made changes to Starship that include adjustments to the vehicle’s flaps, or the winglike structures jutting out from the tip of the spacecraft. For this mission, the flaps are smaller and shifted further toward the tip of the vehicle, according to SpaceX.
+
+This tweak is designed to reduce the strain on the flaps during reentry, or the portion of the flight during which Starship begins to plunge back into Earth’s atmosphere while still traveling thousands of miles per hour, according to SpaceX. The maneuver can heat up Starship’s exterior to more than 2,600 degrees Fahrenheit (1,427 degrees Celsius), according to prior flight data, and has previously charred Starship’s flaps into “skeleton hands,” as Musk put it, under the jarring physics of reentry.
+
+
+The road ahead
+Since test launches of the Starship system began in April 2023, SpaceX has witnessed the Starship vehicle go from exploding minutes after liftoff to polished flights ending that conclude with the vehicle making controlled landings in the ocean. The successful landing of a Super Heavy booster at its launchpad using the “chopstick” catch maneuver in October also marked a monumental step forward.
+
+But the Starship system still has a long way to go before it can return humans to the moon’s surface or take the first humans to Mars.
+
+SpaceX has yet to conduct a mission to orbit or test out how Starship will rendezvous with another vehicle for refueling in space, a maneuver the company must perfect to supply the vehicle with enough fuel to get to the moon.
+
+Musk said in 2020 that he hopes SpaceX will launch “hundreds of missions” with satellites before attempting a crewed Starship flight.
+
+As indicated by Starlink simulators on this latest flight, the company plans to use Starship to deploy batches of its internet-beaming satellites in the future.
+
+The company also aims to hash out how to land and refly the Starship spacecraft — rather than losing it to an ocean splashdown without recovery.
+
+Similar to the Super Heavy booster, this upper portion of the vehicle is intended to land upright in the arms of the Mechazilla launch tower after flight so that it can be rapidly reused.
+
+During the broadcast of SpaceX’s November test launch, SpaceX engineers Jessie Anderson and Kate Tice said the company was finishing construction of the 1 million-square-foot (92,903-square-meter) “Starfactory” at its Starbase facility in South Texas. The goal for that unit is to manufacture Starship vehicles — “hundreds of ships per year,” Anderson said.
+
+SpaceX envisions it will need a large fleet of Super Heavy boosters — and an even larger stable of Starship spacecraft.
+
+That’s because the Starship vehicles “will be staying in space for long duration missions to go to the moon or Mars or become tankers for refueling,” Anderson said. “But the boosters will come back and turn around to launch the next ship.”
+
+“That (production cadence) might sound crazy,” Tice noted. “And that’s because it is.”

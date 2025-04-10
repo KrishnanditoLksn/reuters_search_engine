@@ -1,0 +1,26 @@
+AT&T to invest $2B in mobile network
+By Marguerite Reardon
+
+(CNET) -- AT&T said Thursday that it will invest an additional $2 billion in its network in 2010 to make sure it keeps up with the growing demand from new smartphones and other 3G data devices, such as the Apple iPad, on its network.
+
+During its fourth quarter 2009 conference call, Chief Operating Officer John Stankey said AT&T plans to spend between $18 billion and $19 billion in 2010 upgrading its wireless and backhaul networks to handle the onslaught of new traffic. This is roughly $2 billion more than the company had invested in the previous year.
+
+Specifically, Stankey said AT&T will add 2,000 new cell sites and upgrade existing cell sites with three times more fiber links than it had in 2009. This will increase capacity for the backhaul network that connects the cell towers to AT&T's main network. The backhaul portion of the network is a critical component to AT&T's network; with these upgrades in place, Stankey said the company will be able to easily upgrade in the future to 4G wireless technology.
+
+AT&T will begin testing its 4G network using LTE, the same technology Verizon Wireless is using for its 4G network, starting in 2010, with a few commercial deployments ready in 2011 and more commercial deployments in 2012.
+
+AT&T, which is the only wireless operator in the U.S. selling the iPhone, has been the target of much criticism over this past year, as many iPhone subscribers, particularly in densely populated urban areas, have complained about dropped calls, slow Internet access, and poor all around service. Some critics claim the company has not been spending enough on network upgrades to keep up with growing demand.
+
+Stankey acknowledged that AT&T has faced some difficulties, particularly in cities like New York and San Francisco. But he said the company is "closing the gap."
+
+He said there are periods of time during the week in some sections of Manhattan where nearly 70 percent of the phones active on its network are data-intensive devices. He said to deal with this surge in usage, AT&T is increasing 3G radio capacity in those trouble areas by more than one third. The company will also add additional radio network controllers on existing cell sites.
+
+As for San Francisco, Stankey blamed the poor network performance on zoning issues that have prevented the company from getting new cell phone towers up. But he said the company was been working to resolve these issues. And AT&T expects to add new cell towers in the Bay Area in 2010. And it's boosting capacity at convention centers, sports stadiums and along public transportation routes.
+
+But keeping up with demand on AT&T's network is a bit like shooting a moving target. Usage on the network keeps increasing as AT&T adds new devices and subscribers. In the fourth quarter, AT&T added 2.7 million new mobile subscribers. Overall usage on AT&T's network grew 200 percent in 2009 alone. And the company is now servicing more than twice the number of smartphones as its competitors; again, it is the exclusive carrier in the U.S. for the iPhone, one of the most data intensive devices on the market. And in the fourth quarter, AT&T activated an additional 3.1 million iPhones.
+
+The company is also adding even more smartphones to its lineup as well as other data intensive devices, that will eat up bandwidth. In January at the Consumer Electronics Show (CES) in Las Vegas, AT&T said it would soon offer two Palm smartphones and several Google Android handsets this year.
+
+On Wednesday, Apple announced that AT&T will be the exclusive carrier to provide 3G wireless service to the new iPad tablet. Many Apple fans and industry watchers groaned at this news, suggesting that if AT&T can't handle the iPhone it won't be able to the iPad.
+
+But Stankey said AT&T has already made significant progress in upgrading its network in the fourth quarter and will continue to make upgrades in 2010 to keep up with demand. He also said that much of the usage on the iPad will be offloaded to Wi-Fi hotspots, which will not affect AT&T's 3G network.

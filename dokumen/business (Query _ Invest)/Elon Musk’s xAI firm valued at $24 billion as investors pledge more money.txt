@@ -1,0 +1,29 @@
+Elon Musk’s xAI firm valued at $24 billion as investors pledge more money
+By Anna Cooban, CNN
+
+ 
+The AI firm founded by Elon Musk has raised another $6 billion from investors, including Silicon Valley venture capitalists and a Saudi prince, boosting its valuation to $24 billion.
+
+Investors providing the second-round funding included Sequoia Capital, Andreesen Horowitz, and Saudi Prince Alwaleed Bin Talal, xAI announced in a blog post on Sunday.
+
+Musk, who founded xAI in July last year, wrote Monday on X that there would be “more to announce in the coming weeks,” and that the startup had a valuation of $18 billion before receiving the new funding.
+
+xAI said in its post that the new money would be used to take the firm’s “first products to market, build advanced infrastructure, and accelerate the research and development of future technologies.”
+
+The funding sets the company up as a potential rival to OpenAI, the AI research group behind the wildly popular chatbot ChatGPT. Musk is a co-founder of OpenAI, but stepped down as chairman six years ago partly over disagreements about the co﻿mpany’s direction.
+
+In November, xAI announced that it was developing an AI-powered chatbot called “Grok” for some paying users of X, the social media platform formerly known as Twitter which Musk also owns. The billionaire said in a post on X at the time that Grok was being trained by having “real-time access” to information on the site.
+
+Since then, xAI has announced versions of Grok 1.5 with improved long context and image capabilities, and it is currently recruiting for engineers and researchers in Palo Alto, San Francisco and London.
+
+Tesla CEO Elon Musk attends the AI Safety Summit at Bletchley Park in Bletchley, Britain on November 1, 2023.
+Related article
+Elon Musk says AI will take all our jobs
+
+Investors, lured by the potential for AI to revolutionize the way people live and work, have thrown huge sums of money at AI companies in recent years.
+
+Microsoft (MSFT) is OpenAI’s biggest stakeholder, with a $13 billion investment in the firm. Last year, Amazon (AMZN) announced it would invest up to $4 billion in Anthropic AI in exchange for partial ownership of the company.
+
+Bringing AI products to market is far from straightforward for even the biggest players.
+
+Earlier this month, Google introduced an AI-generated search tool, which summarizes results so that users don’t have to click through multiple links to get quick answers to their questions. But the feature came under fire after it provided false or misleading information, prompting the company to walk back some factually incorrect results.

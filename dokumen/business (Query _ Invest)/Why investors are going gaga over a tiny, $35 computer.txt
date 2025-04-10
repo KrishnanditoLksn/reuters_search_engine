@@ -1,0 +1,31 @@
+Why investors are going gaga over a tiny, $35 computer
+
+By Anna Cooban, CNN
+
+
+Investors are snapping up the shares of a British maker of tiny computers after it went public on the London Stock Exchange Tuesday.
+
+Raspberry Pi stock soared as much as 40% in early trade before paring those gains slightly by 11.54 a.m. ET to trade at £3.85 ($4.90), still about 38% above their listing price. The initial public offering (IPO) valued the startup at nearly £542 million ($689 million).
+
+The Cambridge-based company started life in 2012 as a commercial subsidiary of the Raspberry Pi Foundation, a charity founded four years earlier to promote computer science in schools. It has since become known as the maker of small but fully fledged computers that fit on a single board. Some of them cost as little as $35.
+
+These boards, some the size of a credit card, can be connected to bigger devices, such as a desktop screen, or used as components to power machines such as smart speakers and robots.
+
+To date, Raspberry Pi has sold more than 60 million computers worldwide, according to its website. Industrial customers, such as tech companies and manufacturers, buy more than 70% of its computers, with the devices cropping up in everything from high-tech farming systems to self-pouring beer taps.
+
+It sells the rest to education providers and computer science “enthusiasts,” according to its website.
+
+In 2022, the University of Cambridge declared one of the company’s computers — its cheapest, with a price tag of only $35 — the “best-selling computer to come out of the UK.”
+
+A rare win for London’s stock market
+The IPO raised £166 million ($211 million), making it Britain’s second-biggest this year, according to data provider Dealogic.
+
+Raspberry Pi plans to invest the funds raised in developing its products and expanding its educational activities.
+
+The company’s market debut is a boon for London’s languishing stock market, which has seen several companies ditch it in recent years or choose New York to go public. That includes British chipmaker Arm (ARM), which notched the biggest IPO of last year globally when it listed on New York’s Nasdaq in September.
+
+Eben Upton, the Cambridge University-educated co-founder and chief executive of Raspberry Pi, said in a statement Tuesday that “London has the right caliber and sophistication of investor to support growing, ambitious technology businesses such as Raspberry Pi.”
+
+The Raspberry Pi Foundation is the company’s main shareholder, according to Raspberry Pi’s IPO prospectus. A Sony (SONY) subsidiary also has a small stake.
+
+“It’s not the world’s biggest (share) offering,” Russ Mould, investment director at AJ Bell, told CNN. “But there’s clearly appetite for a UK IPO, there’s clearly appetite for a UK tech IPO, both of which haven’t been that common or frequent recently, so there might be some pent-up demand there.”

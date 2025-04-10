@@ -1,0 +1,83 @@
+Three things investors probably don’t know, but should
+Analysis by Nicole Goodkind, CNN
+
+
+The first quarter of 2024 was a good one for Wall Street. But markets have since soured, as investors lost confidence in the likelihood of multiple interest rate cuts this year.
+
+Hot inflation data has pushed those highly anticipated rate cuts by the Federal Reserve further out in the calendar, and geopolitical chaos also has investors on edge.
+
+Still, there is a silver lining — the US economy remains robust, and the Fed appears to be finished with rate hikes.
+
+So how does an investor weigh these pros and cons?
+
+“April’s turbulence coupled with this still-constructive backdrop for risk-taking does point to an increasingly complex investing environment,” wrote Michael Arone, SPDR chief investment strategist at State Street.
+
+Arone spoke with Before the Bell to outline three things about markets right now “that investors should know, but probably don’t.”
+
+1. Small- and mid-cap stocks have outperformed large-cap stocks recently.
+
+2. Magnificent 7 dominance is a myth so far this year.
+
+3. Long-duration US Treasuries have delivered negative performance for the first time ever.
+
+This interview has been edited for clarity and length.
+
+You write that investors might be surprised to hear that small- and mid-cap stocks have outperformed large-cap stocks over the past five months. Why do you think that’s surprising, and what does it say about markets? 
+
+Most investors think that the S&P 500 has been outperforming everything else, largely dragged up by the performance of the Magnificent 7 (Amazon, Tesla, Alphabet, Meta, Apple, Microsoft and Nvidia). I think it would be a surprise to many investors that mid-cap and small-cap stocks have actually outperformed since the last time the S&P 500 hit a recent low, which was at the end of October. Ultimately what happened was the (US) Treasury decided to issue Treasury bills instead of longer coupon debt. That started to push interest rates down, and then the Fed suggested that they may cut rates, and that led to this massive rally. The big beneficiaries of that, I think, would be a surprise for most investors — those mid-cap stocks and small-cap stocks.
+
+Right. But things have changed since then, and now we have no idea when the Fed is actually going to cut interest rates. Do you expect small- and mid-cap stocks to continue to outperform or do you see that changing?
+
+As that has changed and fewer rate cuts are now expected, the S&P 500 has wrestled back leadership from mid-cap and small-cap stocks. But I think that the Fed will cut rates later in the year, and as that happens, and rates begin to fall, things will revert. It has proven to be a catalyst in the past, and I think it will be in the future.
+
+So as an investor, I may not know exactly when the Fed is likely to cut rates, but I am confident that it’s coming, and why not buy the stocks when they’re a little bit out of favor and while they’re less expensive than large cap stocks. It gives me an opportunity to diversify away from the Magnificent Seven and invest in something that’s cheaper on a relative basis, and has historically done well as rates fall.
+
+You say that market concentration and the Magnificent 7 are myths so far this year. Why is that?
+
+Ultimately, if a market benchmark is weighted based on the market capitalization, it will always be the case that the biggest stocks have the biggest influence on both risk and return. That’s not really news. But when I look at how certain sectors have done so far this year, things like industrials and financials and energy have done better than technology. Communication services has done well, but that’s not a ringing endorsement for the Magnificent 7. When I look at other benchmarks like the EuroStoxx 50, and even some measures of Japanese equities, they’ve done equally as well as the S&P 500 and in some ways a bit better.
+
+I think that there’s a case to be made that, at least this year, different sectors have done well and different markets globally have done well. Sure, if an investor owns just the S&P 500, they’re very much driven by the risk and returns of the Magnificent 7, but most investors have a diversified portfolio where they own other things. Some of those other things have done really well, like gold, for example.
+
+You also find that since the Fed’s last rate hike in July, long-duration Treasuries have delivered negative performance — for the first time ever. That sounds pretty significant. 
+
+The typical pattern is that the Fed raises rates, which we saw them do from March of 2022 through to July of 2023, that ultimately slows the economy and cools inflation, and then as a result, the Fed needs to respond by cutting rates and rates fall. For the first time ever, that has not been the pattern — rates have actually climbed, not fallen.
+
+When we look at yields, they basically contain three things — growth expectations, inflation expectations and this wonky thing called “term premium.” What’s happened is growth has been much better than markets expected, inflation has been much stickier than investors have expected and then finally, because we’re running such a large deficit, the Treasury has to issue far more debt than they have historically at this time. But the Fed and other traditional purchasers of Treasuries are buying less, so supply is increasing while demand is falling. As a result, rates are higher, not lower. This is the first time that’s happened, ever.
+
+The Fed announced last week that it will start to wind down its quantitative tightening program. Does that change anything?
+
+You are seeing a little bit of a downward pressure on 10-year Treasury yields today. Fed Chair Jerome Powell said last week that we don’t expect to have rate hikes. So, it’s a matter of rate cuts, but when?
+
+Economic data is cooling; the most recent GDP figure shows that the US economy is growing at a slower rate. That should put downward pressure on yields. If the Fed is easier on monetary policy, that should help. The thing that continues to be a bit of an outlier is sticky inflation. But ultimately, if the economy continues to slow, yields should in fact, fall.
+
+Now, the thing is, that inflation part is tricky. There’s a number of things that I think make the last mile of inflation difficult. There’s supply-demand imbalances, and things like housing market, the labor market; we’re trying to make this multi-decade transition from fossil fuels to something else, that’s proven more inflationary than people anticipated. You have geopolitical conflict, which has pushed up the price of oil. And given the deficits, the Treasury will have to continue to issue more bonds. So, I think that those components may keep rates higher than the markets expect. That doesn’t mean that rates will keep rising, it just means that the markets expect them to fall dramatically. I’m not so sure.
+
+Warren Buffett holds first Berkshire Hathaway meeting without Charlie Munger
+Welcome to “Woodstock for capitalists.”
+
+Tens of thousands of Berkshire Hathaway shareholders and Warren Buffett fans flocked to Nebraska this weekend to consume Berkshire-owned See’s Candies and Dairy Queen Dilly Bars, compete in newspaper-throwing contests and, perhaps most important, to see the Oracle of Omaha speak in person.
+
+This year, however, the event struck a more solemn tone. Buffett appeared for the first time without his longtime business partner and friend Charlie Munger, who died in November.
+
+Greg Abel, the expected successor to Buffett who runs Berkshire’s noninsurance operations, and Ajit Jain, who runs the company’s insurance business, joined Buffett on stage. However, the warm back-and-forth and Munger’s whip-smart (and often sarcastic) remarks were absent.
+
+Berkshire also reported its 2024 first quarter earnings on Saturday morning. Buffett famously releases his quarterly report over the weekend so that investors have time to fully digest its contents before trading opens again on Monday.
+
+Berkshire’s operating profits rose to $8,825 per Class A share. Berkshire’s Class A stock has risen nearly 10% this year, beating the total 7.5% of the S&P 500.
+
+It closed the first quarter with a net profit of $12.7 billion, less than half of the $35.5 billion it reported for the same period last year.
+
+Read more here.
+
+Retailers jacked up prices and squeezed consumers. They might have just blinked
+Retailers are feeling jittery, reports my colleague Parija Kavilanz. Consumers aren’t shopping like they used to. In a game of chicken between stores and shoppers, it’s the stores that appear to be yielding first, by dropping prices on thousands of products.
+
+The markdowns come as inflation has pushed prices higher for the past two years, squeezing Americans and forcing them to choose between wants and needs.
+
+That’s a problem not just for individual shoppers or even big retail chains but for the whole American economy, of which about two-thirds comes from consumer spending.
+
+A slew of retailers in recent weeks have announced price cuts as they strive to pull consumers into stores and entice them to spend money on things like new clothes, decorative items for the home and arts and crafts or hobby kits.
+
+Ikea has slashed prices on hundred of products. In April, an 18-piece dinnerware set at Ikea was marked down to $29.99 down from $49.99, a glass door bookcase now costs $189 down from $229 and a bedframe with storage and headboard costs $499 down from $549.
+
+It’s telling that these are categories considered to be discretionary purchases, meaning things that are nice to have but maybe aren’t everyday necessities in the same vein as groceries and medicine.

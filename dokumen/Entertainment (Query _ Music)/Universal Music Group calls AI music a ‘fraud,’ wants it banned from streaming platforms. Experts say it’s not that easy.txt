@@ -1,0 +1,59 @@
+Universal Music Group calls AI music a ‘fraud,’ wants it banned from streaming platforms. Experts say it’s not that easy
+
+By Vanessa Yurkevich, CNN
+
+
+Universal Music Group — the music company representing superstars including Sting, The Weeknd, Nicki Minaj and Ariana Grande — has a new Goliath to contend with: artificial intelligence.
+
+The music group sent urgent letters in April to streaming platforms, including Spotify (SPOT) and Apple Music, asking them to block artificial intelligence platforms from training on the melodies and lyrics of their copywritten songs.
+
+
+The company has “a moral and commercial responsibility to our artists to work to prevent the unauthorized use of their music and to stop platforms from ingesting content that violates the rights of artists and other creators,” a spokesperson from Universal Music Group, or UMG, told CNN. “We expect our platform partners will want to prevent their services from being used in ways that harm artists.”
+
+The move by UMG, first reported by the Financial Times, aims to stop artificial intelligence from creating an existential threat to the industry.
+
+Artificial intelligence, and specifically AI music, learns by either training on existing works on the internet or through a library of music given to the AI by humans.
+
+UMG says it is not against the technology itself, but rather AI that is so advanced it can recreate melodies and even musicians’ voices in seconds. That could possibly threaten UMG’s deep library of music and artists that generate billions of dollars in revenue.
+
+“UMG’s success has been, in part, due to embracing new technology and putting it to work for our artists — as we have been doing with our own innovation around AI for some time already,” UMG said in a statement Monday. “However, the training of generative AI using our artists’ music … begs the question as to which side of history all stakeholders in the music ecosystem want to be on.”
+
+The company said AI that uses artists’ music violates UMG’s agreements and copyright law. UMG has been sending requests to streamers asking them to take down AI-generated songs.
+
+Difficult to control
+“I understand the intent behind the move, but I’m not sure how effective this will be as AI services will likely still be able to access the copyrighted material one way or another,” said Karl Fowlkes, an entertainment and business attorney at The Fowlkes Firm.
+
+
+No regulations exist that dictate on what AI can and cannot train. But last month, in response to individuals looking to seek copyright for AI-generated works, the US Copyright Office released new guidance around how to register literary, musical, and artistic works made with AI.
+
+“In the case of works containing AI-generated material, the Office will consider whether the AI contributions are the result of ‘mechanical reproduction’ or instead of an author’s ‘own original mental conception, to which [the author] gave visible form,’” the new guidance says.
+
+The copyright will be determined on a case-by-case basis, the guidance continued, based on how the AI tool operates and how it was used to create the final piece or work.
+
+The US Copyright Office announced it will also be seeking public input on how the law should apply to copywritten works the AI trains on, and how the office should treat those works.
+
+“AI companies using copyrighted works to train their models to create similar works is exactly the type of behavior the copyright office and courts should explicitly ban. Original art is meant to be protected by law, not works created by machines that used the original art to create new work,” said Fowlkes.
+
+But according to AI experts, it’s not that simple.
+
+
+“You can flag your site not to be searched. But that’s a request — you can’t prevent it. You can just request that someone not do it,” said Shelly Palmer, Professor of Advanced Media at Syracuse University.
+
+For example, a website can apply a robots.txt file that works like a guardrail to control which URL’s “search engine crawlers” can access a given site, according to Google. But it is not a full stop, keep-out option.
+
+Grammy-winning DJ and producer David Guetta proved in February just how easy it is to create new music using AI. Using ChatGPT for lyrics and Uberduck for vocals, Guetta was able to create a new song in an hour.
+
+The result was a rap with a voice that sounded exactly like Eminem. He played the song at one of his shows in February, but said he would never release it commercially.
+
+“What I think is very interesting about AI is that it’s raising a question of what is it to be an artist,” Guetta told CNN last month.
+
+Guetta believes AI is going to have a significant impact on the music industry, so he’s embracing it instead of fighting it. But he admits there are still questions about copyright.
+
+
+“That is an ethical problem that needs to be addressed because it sounds crazy to me that today I can type lyrics and it’s going to sound like Drake is rapping it, or Eminem,” he said.
+
+And that is exactly what UMG wants to avoid. The music group likens AI music to “deep fakes, fraud, and denying artists their due compensation.”
+
+“These instances demonstrate why platforms have a fundamental legal and ethical responsibility to prevent the use of their services in ways that harm artists,” the UMG statement said.
+
+Music streamers Spotify, Apple Music and Pandora did not return request for comment.
