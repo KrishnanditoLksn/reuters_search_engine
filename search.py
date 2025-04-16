@@ -17,11 +17,18 @@ def search_index(indexdir, query_string):
         results = searcher.search(query, terms=True, limit=1000)
         found_hits = results.scored_length()
 
+        corrector = searcher.correct_query(query, query_string)
+
+        if corrector.query != query:
+            print("Did you mean : ", corrector.string, "?")
+
         print(f"Number of results found: {len(results)}")
         print(found_hits)
         for hit in results:
             print("Matched:", hit.matched_terms())
-
+            print("Rank:" , hit.rank)
+            print("Score:" , hit.score)
+        print("==================================================")
         print("List of documents")
         if len(results) == 0:
             print("No results found.")
