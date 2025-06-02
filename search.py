@@ -15,6 +15,16 @@ def search_index(indexdir, query_string):
 
         print("Parser", query)
         results = searcher.search(query, terms=True, limit=1000)
+
+        result_list = []
+        for result in results:
+            result_list.append({
+                "title": result['title'],
+                "score": result.score,
+                "doc_id":result['doc_id'],
+                "topics":result['topics']
+            })
+
         found_hits = results.scored_length()
 
         corrector = searcher.correct_query(query, query_string)
@@ -37,6 +47,7 @@ def search_index(indexdir, query_string):
         for result in results:
             print(f"Title: {result['title']}")
 
+        return result_list
 
 if __name__ == "__main__":
     index_directory = './Index_8.npy'
