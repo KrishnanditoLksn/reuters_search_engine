@@ -1,33 +1,36 @@
-import glob
 import os
 
-from whoosh.analysis import StemmingAnalyzer
-from whoosh.fields import Schema, TEXT
+import nltk
+from nltk.corpus import reuters
+from whoosh.fields import Schema, TEXT, ID, KEYWORD
 from whoosh.index import create_in
 
-# Define the schema for the index
-stem_analyzer = StemmingAnalyzer()
-schema = Schema(title=TEXT(stored=True, analyzer=stem_analyzer), content=TEXT)
+schema = Schema(
+    doc_id=ID(stored=True, unique=True),
+    title=TEXT(stored=True),
+    content=TEXT,
+    topics=KEYWORD(stored=True)
+)
 
 
-def create_index(directory, indexdir):
+def create_index(indexdir):
     if not os.path.exists(indexdir):
         os.mkdir(indexdir)
+
     ix = create_in(indexdir, schema)
     writer = ix.writer()
 
-    # Add documents to the index
-    for filename in glob.glob(os.path.join(directory, '**', '*.txt'), recursive=True):
-        if filename.endswith('.txt'):
-            filepath = os.path.join(directory, filename)
-            with open(filepath, 'r', encoding='utf-8') as file:
-                content = file.read()
-                writer.add_document(title=filename, content=content)
-        print(f"Indexing file: {filename}")
+    print("Indexing documents from NLTK Reuters corpus...")
+
+    for fileid in reuters.fileids():
+        try:
+            content = reuters.raw(fileid)
+            title = nltk.sent_tokenize(content)[0] if nltk.sent_tokenize(content) else fileid
+            topics = ",".join(reuters.categories(fileid))
+            writer.add_document(doc_id=fileid, title=title, content=content, topics=topics)
+            print(f"Indexed: {fileid}")
+        except Exception as e:
+            print(f"Failed to index {fileid}: {e}")
+
     writer.commit(optimize=True)
-
-
-if __name__ == '__main__':
-    directorys = "./"
-    index_directory = './Index_8.npy'
-    create_index(directorys, index_directory)
+    print("Indexing complete.")
