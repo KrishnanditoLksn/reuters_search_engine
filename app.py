@@ -40,13 +40,32 @@ elif option == "Cari Dokumen":
             st.warning("Silakan masukkan kata kunci.")
         else:
             results = search_index(index_dir, query)
-            st.write(f"Hasil ditemukan: {len(results)} dokumen")
-            for r in results:
-                st.write("------")
-                st.write(f"ID Dokumen: {r['doc_id']}")
-                st.write(f"Kategori Dokumen: {r['topics']}")
-                st.write(f"Skor: {r['score']:.4f}")
-                st.write(r['title'][:500])
+
+            if len(results) <= 0:
+                st.write("Hasil Pencarian Tidak ditemukan")
+            else:
+                st.write(f"Hasil ditemukan: {len(results)} dokumen")
+                for r in results:
+                    st.write("------")
+                    st.write(f"ID Dokumen: {r['doc_id']}")
+                    st.write(f"Kategori Dokumen: {r['topics']}")
+                    st.write(f"Skor: {r['score']:.4f}")
+                    st.write(r['title'][:500])
+            #
+            # ground_truth_dir = "./gt"
+            # query_name = "weather"
+            # if os.path.exists(ground_truth_dir):
+            #     metrics = evaluate_query(index_dir, ground_truth_dir, query, query_name)
+            #     if metrics:
+            #         st.subheader("📊 Evaluasi Query Ini")
+            #         st.write(f"Precision: {metrics['precision']}")
+            #         st.write(f"Recall: {metrics['recall']}")
+            #         st.write(f"F1-Score: {metrics['f1']}")
+            #         st.caption(f"Relevant: {metrics['relevant']} | Retrieved: {metrics['retrieved']}")
+            #     else:
+            #         st.info("Tidak ada ground truth untuk query ini.")
+
+
 elif option == "Klasifikasi Dokumen":
     st.header("Klasifikasi Dokumen")
     content = st.text_input("Masukkan Isi kontenmu dulu lah")
@@ -87,7 +106,7 @@ elif option == "Informasi Kelas Dokumen":
     y = mlb.fit_transform(df['labels'])  # y = array (n_samples, n_labels)
 
     st.write("Split 80% training dan 20% test")
-    X_train, X_test, Y_train, Y_test = train_test_split(X, y, test_size=0.2)
+    X_train, X_test, Y_train, Y_test = train_test_split(X, y, test_size=0.2, train_size=0.8)
 
     st.header("DATA X TRAIN")
     st.write(X_train)
@@ -107,3 +126,6 @@ elif option == "Informasi Kelas Dokumen":
 
     st.header("Matrix Confusion")
     st.write(classification_report(Y_test, y_pred, target_names=mlb.classes_))
+
+    st.header("LABELS")
+    st.write(mlb.classes_)
