@@ -3,12 +3,11 @@ import os
 import streamlit as st
 from nltk.corpus import stopwords
 from sklearn.feature_extraction.text import TfidfVectorizer
-from sklearn.metrics import accuracy_score, classification_report
+from sklearn.metrics import confusion_matrix
 from sklearn.model_selection import train_test_split
 from sklearn.multiclass import OneVsRestClassifier
 from sklearn.naive_bayes import MultinomialNB
 from sklearn.preprocessing import MultiLabelBinarizer
-from whoosh.index import open_dir
 
 from indexer import create_index
 from search import search_index, document_label, split_data_label
@@ -57,7 +56,8 @@ elif option == "Cari Dokumen":
             # if os.path.exists(ground_truth_dir):
             #     metrics = evaluate_query(index_dir, ground_truth_dir, query, query_name)
             #     if metrics:
-            #         st.subheader("📊 Evaluasi Query Ini")
+            #         st.subheader("📊 Evaluasi Quer
+            #         y Ini")
             #         st.write(f"Precision: {metrics['precision']}")
             #         st.write(f"Recall: {metrics['recall']}")
             #         st.write(f"F1-Score: {metrics['f1']}")
@@ -65,25 +65,6 @@ elif option == "Cari Dokumen":
             #     else:
             #         st.info("Tidak ada ground truth untuk query ini.")
 
-
-elif option == "Klasifikasi Dokumen":
-    st.header("Klasifikasi Dokumen")
-    content = st.text_input("Masukkan Isi kontenmu dulu lah")
-    if content is None:
-        st.warning("Isian tidak boleh kosong !!! ")
-    else:
-        if st.button("Indeks Lagi"):
-            if not content.strip():
-                st.warning("Isian tidak boleh kosong!")
-            else:
-                try:
-                    ix = open_dir(index_dir)
-                    writer = ix.writer()
-                    writer.add_document(title=content)
-                    writer.commit()
-                    st.success("Konten berhasil ditambahkan ke indeks.")
-                except Exception as e:
-                    st.error(f"Gagal menambahkan ke indeks: {e}")
 
 elif option == "Informasi Kelas Dokumen":
     st.write("Informasi Kelas Dokumen")
@@ -118,14 +99,5 @@ elif option == "Informasi Kelas Dokumen":
     model.fit(X_train, Y_train)
     y_pred = model.predict(X_test)
 
-    st.header("HASIL PREDIKSI")
-    st.write(y_pred)
-
-    st.header("Skor Akurasi")
-    st.write(accuracy_score(Y_test, y_pred))
-
     st.header("Matrix Confusion")
-    st.write(classification_report(Y_test, y_pred, target_names=mlb.classes_))
-
-    st.header("LABELS")
-    st.write(mlb.classes_)
+    st.write(confusion_matrix(Y_test, y_pred, labels=mlb.classes_))
