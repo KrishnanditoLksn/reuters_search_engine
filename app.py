@@ -1,8 +1,11 @@
 import os
 
+import pandas as pd
 import streamlit as st
+from matplotlib import pyplot as plt
 from nltk.corpus import stopwords
 from sklearn.feature_extraction.text import TfidfVectorizer
+from sklearn.metrics import multilabel_confusion_matrix, classification_report, ConfusionMatrixDisplay
 from sklearn.model_selection import train_test_split
 from sklearn.multiclass import OneVsRestClassifier
 from sklearn.naive_bayes import MultinomialNB
@@ -49,42 +52,53 @@ elif option == "Cari Dokumen":
                     st.write(f"Kategori Dokumen: {r['topics']}")
                     st.write(f"Skor: {r['score']:.4f}")
                     st.write(r['title'][:500])
-            #
-            # ground_truth_dir = "./gt"
-            # query_name = "weather"
-            # if os.path.exists(ground_truth_dir):
-            #     metrics = evaluate_query(index_dir, ground_truth_dir, query, query_name)
-            #     if metrics:
-            #         st.subheader("📊 Evaluasi Quer
-            #         y Ini")
-            #         st.write(f"Precision: {metrics['precision']}")
-            #         st.write(f"Recall: {metrics['recall']}")
-            #         st.write(f"F1-Score: {metrics['f1']}")
-            #         st.caption(f"Relevant: {metrics['relevant']} | Retrieved: {metrics['retrieved']}")
-            #     else:
-            #         st.info("Tidak ada ground truth untuk query ini.")
-
-
 elif option == "Klasifikasi Dokumen":
-    st.write("Informasi Kelas Dokumen")
-    df = split_data_label()
-    st.header("DATASET ROUTERS")
-    st.write(df)
+    # Streamlit interface
+    st.title("Klasifikasi Dokumen Reuters")
 
+    df = split_data_label()
+    st.header("Dataset")
+    st.write(df.head())
+
+    st.write("TF-IDF Vectorization")
     tfidf = TfidfVectorizer(stop_words=stopwords.words('english'), max_features=5000)
     X = tfidf.fit_transform(df['text'])
 
-    st.write("Encode Label")
+    st.write("Encoding Label")
     mlb = MultiLabelBinarizer()
-    y = mlb.fit_transform(df['labels'])  # y = array (n_samples, n_labels)
+    y = mlb.fit_transform(df['labels'])
 
-    st.write("Split 80% training dan 20% test")
-    X_train, X_test, Y_train, Y_test = train_test_split(X, y, test_size=0.2, train_size=0.8)
+    st.write("Split Data (80% Train, 20% Test)")
+    X_train, X_test, Y_train, Y_test = train_test_split(X, y, test_size=0.2, random_state=42)
 
+    # Train model
     model = OneVsRestClassifier(MultinomialNB())
     model.fit(X_train, Y_train)
     y_pred = model.predict(X_test)
 
-    st.write(y_pred)
-    # st.header("Matrix Confusion")
-    # st.write(confusion_matrix(Y_test, y_pred, labels=mlb.classes_))
+    st.subheader("Hasil Prediksi (Sample)")
+    st.write(pd.DataFrame(y_pred, columns=mlb.classes_))
+
+    # Confusion Matrices
+    st.subheader("Confusion Matrix (Top 10 Label Paling Umum)")
+    matrix = multilabel_confusion_matrix(Y_test, y_pred)
+
+    # Hitung frekuensi label di test set
+    label_freq = Y_test.sum(axis=0)
+    top_labels_idx = label_freq.argsort()[::-1][:10]  # top 10
+
+    fig, axes = plt.subplots(2, 5, figsize=(20, 8))
+    axes = axes.ravel()
+    for i, idx in enumerate(top_labels_idx):
+        cm = matrix[idx]
+        disp = ConfusionMatrixDisplay(confusion_matrix=cm, display_labels=[0, 1])
+        disp.plot(ax=axes[i], values_format='d')
+        axes[i].set_title(f"Class: {mlb.classes_[idx]}")
+        disp.im_.colorbar.remove()
+    plt.tight_layout()
+    st.pyplot(fig)
+
+    # Classification report
+    st.subheader("Evaluasi: Classification Report")
+    report = classification_report(Y_test, y_pred, target_names=mlb.classes_, output_dict=True)
+    st.dataframe(pd.DataFrame(report).transpose())
